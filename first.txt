@@ -3,6 +3,7 @@ second
 Third
 fourth
 fifth
+six
 
 
 changes for git lense
