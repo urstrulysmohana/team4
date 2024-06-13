@@ -12,7 +12,3 @@ changes for git lense
 edited
 Addition by Nithin
 
-----------------------
-Demo of Git on revert delete this line...
-
-
